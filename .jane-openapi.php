@@ -13,4 +13,5 @@ return [
     'reference' => true,
     'strict' => false,
     'client' => 'psr18',
+    'use-fixer' => false,
 ];
